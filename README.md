@@ -1,9 +1,10 @@
-# Translator between German and English
+# Seq2Seq modeling : Translation from German to English
  Building a Seq2Seq mode, that takes as an input a german sentence or word (encoder) outputs its english translation (decoder)
  
  ## Dataset
  
  The dataset is a English-German words/sentence pairs from : http://www.manythings.org/anki/
+
  
  ## Results
  <p float="left">
